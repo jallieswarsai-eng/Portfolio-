@@ -3,7 +3,7 @@
  <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Venkatesh Bathena - Cyber Athlete Portfolio</title>
+  <title>jalli Eswarsai- Cyber Athlete Portfolio</title>
   <script src="/_sdk/element_sdk.js"></script>
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;900&amp;family=Poppins:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet">
   <style>
@@ -420,7 +420,7 @@
    <section class="hero-section">
     <div class="athlete-card neon-glow">
      <div class="energy-trail"></div>
-     <h1 class="athlete-name" id="athlete-name">VENKATESH BATHENA</h1>
+     <h1 class="athlete-name" id="athlete-name">JALLI ESWARSAI</h1>
      <p class="athlete-title" id="athlete-title">Cyber Security Student | Future Analyst | Digital Defender</p>
      <p class="hero-tagline" id="hero-tagline">Learning to defend the digital world, one skill at a time.</p>
     </div><!-- Stats Board -->
@@ -705,7 +705,7 @@
     <div style="max-width: 800px; margin: 0 auto 4rem auto;">
      <h3 style="color: #00ff41; font-size: 1.5rem; margin-bottom: 2rem; text-align: center;">Direct Communication Channels</h3>
      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem;">
-      <div class="stat-item" style="cursor: pointer;" onclick="window.open('mailto:venkatesh.bathena@email.com', '_blank')">
+      <div class="stat-item" style="cursor: pointer;" onclick="window.open('jallieswarsai@email.com', '_blank')">
        <div style="font-size: 2rem; margin-bottom: 0.5rem;">
         📧
        </div>
@@ -713,7 +713,7 @@
         Email
        </div>
        <div class="stat-value" id="email" style="font-size: 1rem;">
-        venkatesh.bathena@email.com
+        jallieswarsai@email.com
        </div>
       </div>
       <div class="stat-item">
@@ -743,7 +743,7 @@
     <div style="max-width: 1000px; margin: 0 auto;">
      <h3 style="color: #00ff41; font-size: 1.5rem; margin-bottom: 2rem; text-align: center;">Social Networks</h3>
      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem;">
-      <div class="achievement-badge" style="cursor: pointer; position: relative;" onclick="window.open('https://linkedin.com/in/venkateshbathena', '_blank', 'noopener,noreferrer')">
+      <div class="achievement-badge" style="cursor: pointer; position: relative;" onclick="window.open('https://linkedin.com/in/jalli Eswarsai', '_blank', 'noopener,noreferrer')">
        <div class="energy-trail"></div>
        <div style="font-size: 2.5rem; margin-bottom: 1rem;">
         💼
@@ -752,10 +752,10 @@
         LinkedIn
        </div>
        <div class="achievement-desc" id="linkedin-handle">
-        @venkateshbathena
+        @jalli Eswarsai
        </div>
       </div>
-      <div class="achievement-badge" style="cursor: pointer; position: relative;" onclick="window.open('https://github.com/venkateshbathena', '_blank', 'noopener,noreferrer')">
+      <div class="achievement-badge" style="cursor: pointer; position: relative;" onclick="window.open('https://github.com/Jalli Eswarsai', '_blank', 'noopener,noreferrer')">
        <div class="energy-trail"></div>
        <div style="font-size: 2.5rem; margin-bottom: 1rem;">
         💻
@@ -764,10 +764,10 @@
         GitHub
        </div>
        <div class="achievement-desc" id="github-handle">
-        @venkateshbathena
+        @Jalli Eswarsai
        </div>
       </div>
-      <div class="achievement-badge" style="cursor: pointer; position: relative;" onclick="window.open('https://twitter.com/venkatesh_sec', '_blank', 'noopener,noreferrer')">
+      <div class="achievement-badge" style="cursor: pointer; position: relative;" onclick="window.open('https://twitter.com/Eswarsai_sec', '_blank', 'noopener,noreferrer')">
        <div class="energy-trail"></div>
        <div style="font-size: 2.5rem; margin-bottom: 1rem;">
         🐦
@@ -776,7 +776,7 @@
         Twitter
        </div>
        <div class="achievement-desc" id="twitter-handle">
-        @venkatesh_sec
+        @Eswarsai_sec
        </div>
       </div>
       <div class="achievement-badge" style="cursor: pointer; position: relative;">
@@ -788,10 +788,10 @@
         Discord
        </div>
        <div class="achievement-desc" id="discord-handle">
-        VenkateshB#2024
+        J Eswarsai#2024
        </div>
       </div>
-      <div class="achievement-badge" style="cursor: pointer; position: relative;" onclick="window.open('https://medium.com/@venkateshbathena', '_blank', 'noopener,noreferrer')">
+      <div class="achievement-badge" style="cursor: pointer; position: relative;" onclick="window.open('https://medium.com/@Jalli Eswarsai', '_blank', 'noopener,noreferrer')">
        <div class="energy-trail"></div>
        <div style="font-size: 2.5rem; margin-bottom: 1rem;">
         📝
@@ -800,10 +800,10 @@
         Medium
        </div>
        <div class="achievement-desc" id="medium-handle">
-        @venkateshbathena
+        @Jalli Eswarsai
        </div>
       </div>
-      <div class="achievement-badge" style="cursor: pointer; position: relative;" onclick="window.open('https://youtube.com/@VenkateshCyber', '_blank', 'noopener,noreferrer')">
+      <div class="achievement-badge" style="cursor: pointer; position: relative;" onclick="window.open('https://youtube.com/@EswarsaiCyber', '_blank', 'noopener,noreferrer')">
        <div class="energy-trail"></div>
        <div style="font-size: 2.5rem; margin-bottom: 1rem;">
         📺
@@ -812,7 +812,7 @@
         YouTube
        </div>
        <div class="achievement-desc" id="youtube-handle">
-        VenkateshCyber
+        EswarsaiCyber
        </div>
       </div>
      </div>
@@ -842,7 +842,7 @@
   <script>
         // Initialize Element SDK
         const defaultConfig = {
-            athlete_name: "VENKATESH BATHENA",
+            athlete_name: "JALLI ESWAR SAI",
             athlete_title: "Cyber Security Student | Future Analyst | Digital Defender",
             hero_tagline: "Learning to defend the digital world, one skill at a time.",
             cyber_skills_score: "⭐⭐⭐⭐",
@@ -865,15 +865,15 @@
             cert4_name: "Python for Security",
             cert4_issuer: "Udemy",
             cert4_date: "2023",
-            email: "venkatesh.bathena@email.com",
+            email: "jallieswarsai@email.com",
             phone: "+91 98765 43210",
             location: "Hyderabad, India",
-            linkedin_handle: "@venkateshbathena",
-            github_handle: "@venkateshbathena",
-            twitter_handle: "@venkatesh_sec",
-            discord_handle: "VenkateshB#2024",
-            medium_handle: "@venkateshbathena",
-            youtube_handle: "VenkateshCyber"
+            linkedin_handle: "@jalli Eswarsai",
+            github_handle: "@Jalli Eswarsai",
+            twitter_handle: "@Eswarsai_sec",
+            discord_handle: "J Eswarsai#2024",
+            medium_handle: "@jalli Eswarsai",
+            youtube_handle: "EswarsaiCyber"
         };
 
         async function onConfigChange(config) {
